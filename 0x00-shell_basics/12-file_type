@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "water" > /tmp/iamafile
+file /tmp/iamafile
