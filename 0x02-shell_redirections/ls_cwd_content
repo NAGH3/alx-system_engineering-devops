@@ -1,16 +1,21 @@
-total 48
-drwxr-xr-x 2 root root 249 Apr  4 07:22 .
-drwxr-xr-x 6 root root 121 Apr  4 02:43 ..
--rwxr--r-- 1 root root  22 Apr  4 03:22 0-hello_world
--rwxr--r-- 1 root root  25 Apr  4 04:10 1-confused_smiley
--rwxr--r-- 1 root root  28 Apr  4 04:20 2-hellofile
--rwxr--r-- 1 root root  39 Apr  4 04:29 3-twofiles
--rwxr--r-- 1 root root  29 Apr  4 04:35 4-lastlines
--rwxr--r-- 1 root root  29 Apr  4 04:38 5-firstlines
--rwxr--r-- 1 root root  36 Apr  4 04:54 6-third_line
--rw-r--r-- 1 root root  12 Apr  4 04:59 7-file
--rwxr--r-- 1 root root  36 Apr  4 07:21 8-cwd_state
--rw-r--r-- 1 root root   8 Apr  4 04:14 confused
--rw-r--r-- 1 root root  13 Apr  4 03:23 hello
--rw-r--r-- 1 root root   0 Apr  4 07:22 ls_cwd_content
--rw-r--r-- 1 root root  19 Apr  4 02:46 README.md
+total 68
+drwxr-xr-x 2 root root 4096 Apr  4 12:00 .
+drwxr-xr-x 6 root root  121 Apr  4 02:43 ..
+-rwxr--r-- 1 root root   22 Apr  4 03:22 0-hello_world
+-rwxr--r-- 1 root root   43 Apr  4 11:05 10-no_more_js
+-rwxr--r-- 1 root root   47 Apr  4 11:15 11-directories
+-rwxr--r-- 1 root root   26 Apr  4 11:36 12-newest_files
+-rwxr--r-- 1 root root   25 Apr  4 04:10 1-confused_smiley
+-rwxr--r-- 1 root root   28 Apr  4 04:20 2-hellofile
+-rwxr--r-- 1 root root   39 Apr  4 04:29 3-twofiles
+-rwxr--r-- 1 root root   29 Apr  4 04:35 4-lastlines
+-rwxr--r-- 1 root root   29 Apr  4 04:38 5-firstlines
+-rwxr--r-- 1 root root   36 Apr  4 04:54 6-third_line
+-rw-r--r-- 1 root root   12 Apr  4 04:59 7-file
+-rwxr--r-- 1 root root   36 Apr  4 07:21 8-cwd_state
+-rwxr--r-- 1 root root   35 Apr  4 08:44 9-duplicate_last_line
+-rw-r--r-- 1 root root    8 Apr  4 04:14 confused
+-rw-r--r-- 1 root root   13 Apr  4 03:23 hello
+-rw-r--r-- 1 root root    0 Apr  4 08:45 iacta
+-rw-r--r-- 1 root root    0 Apr  4 12:00 ls_cwd_content
+-rw-r--r-- 1 root root   19 Apr  4 02:46 README.md
